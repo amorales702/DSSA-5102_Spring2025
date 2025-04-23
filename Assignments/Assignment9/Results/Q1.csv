@@ -1,0 +1,42 @@
+State,total_customers,volume
+Alabama,8,medium
+Arizona,4,low
+Arkansas,1,low
+California,38,high
+Colorado,10,medium
+Connecticut,6,low
+Delaware,2,low
+"District of Columbia",8,medium
+Florida,21,medium
+Georgia,15,medium
+Illinois,12,medium
+Indiana,9,medium
+Iowa,3,low
+Kansas,9,medium
+Kentucky,5,low
+Louisiana,4,low
+Maryland,3,low
+Massachusetts,6,low
+Michigan,2,low
+Minnesota,7,medium
+Mississippi,2,low
+Missouri,8,medium
+Nebraska,1,low
+Nevada,1,low
+"New Hampshire",2,low
+"New Jersey",5,low
+"New Mexico",1,low
+"New York",18,medium
+"North Carolina",6,low
+"North Dakota",1,low
+Ohio,19,medium
+Oklahoma,2,low
+Oregon,2,low
+Pennsylvania,13,medium
+Tennessee,4,low
+Texas,33,high
+Utah,3,low
+Virginia,13,medium
+Washington,6,low
+"West Virginia",2,low
+Wisconsin,3,low
